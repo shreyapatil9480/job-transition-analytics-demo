@@ -73,4 +73,9 @@ The dataset columns are described below.  All values are synthetic and generated
 
 ## License
 
+
+## Future Work
+
+This project can be expanded by exploring additional machine learning algorithms, performing cross-validation, and experimenting with hyperparameter tuning. You could also use real-world datasets or integrate data from public sources to further validate the models and compare them against the synthetic data results.
+
 This repository is provided for demonstration and educational purposes.  Feel free to fork and modify it for your own portfolio projects.
