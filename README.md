@@ -29,3 +29,5 @@ Tune class weights and add SHAP explainability.
 
 ---
 *Analytics portfolio project — 2025-09*
+
+<!-- build 6 -->
