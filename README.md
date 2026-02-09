@@ -1,7 +1,3 @@
-[![Python CI](https://github.com/shreyapatil9480/job-transition-analytics-demo/actions/workflows/python-ci.yml/badge.svg)](https://github.com/shreyapatil9480/job-transition-analytics-demo/actions/workflows/python-ci.yml)
-![Python](https://img.shields.io/badge/python-3.11-blue)
-![pytest](https://img.shields.io/badge/tested%20with-pytest-0A9EDC)
-
 # Job Transition Analytics Demo
 
 Which projects will deliver on time?
@@ -27,17 +23,9 @@ jupyter notebook notebooks/analysis.ipynb
 ```
 
 
-
-## Testing
-
-```bash
-pip install -r requirements.txt
-pytest tests/ --cov=src
-```
-
 ## Next Steps
 
-Tune class weights and add SHAP explainability.
+**Done.** Class-weight tuning and SHAP explainability are implemented — see ### Implemented below.
 
 ---
 *Analytics portfolio project — 2025-09*
